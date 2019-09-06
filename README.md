@@ -1,2 +1,3 @@
-# typescript
-Sample usage of TypeScript
+# TypeScript
+Sample usage of TypeScript and JavaScript fundamental
+
